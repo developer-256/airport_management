@@ -1,6 +1,0 @@
-Lahore,Washington,00:00:00 local,07:00:00 local,DRP001,360,120000,
-Islamabad,Washington,04:00:00 local,11:00:00 local,DRP002,300,130000,
-Karachi,Washington,08:00:00 local,15:00:00 local,DRP003,240,110000,
-Multan,Washington,12:00:00 local,19:00:00 local,DRP004,280,9000,
-Lahore,Dubai,16:00:00 local,19:00:00 local,H21001,500,23000,
-Islamabad,Dubai,20:00:00 local,23:00:00 local,H21002,343,24000,
