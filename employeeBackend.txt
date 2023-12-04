@@ -1,0 +1,5 @@
+uamr,0001,pilot,
+usman,0002,pilot,
+abdullah,0003,manager,
+faizan,0005,airhost,
+Abdul,0006,doctor,
