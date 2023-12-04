@@ -1,5 +1,0 @@
-uamr,0001,gm,
-usman,0002,dm,
-abdullah,0003,md,
-faizan,0005,cm,
-Abdul,0006,ca,
